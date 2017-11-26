@@ -53,5 +53,6 @@
   <ItemGroup>
     <Compile Include="gtk-gui\generated.cs" />
     <Compile Include="Lachesis.cs" />
+    <Compile Include="MainWindow.cs" />
   </ItemGroup>
 </Project>
